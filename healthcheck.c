@@ -14,7 +14,7 @@
 #include <sys/un.h>
 #include <sys/wait.h>
 
-#define IPINFO_URL "https://ipinfo.io/json?token=f0733aeae6faa4"
+#define IPINFO_URL "https://ipinfo.io/json?token=urtoken"
 #define PORT 8081
 #define WS_REFRESH_INTERVAL 1
 
