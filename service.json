@@ -1,0 +1,6 @@
+{
+  "services": [
+    { "type": "http", "url": "http://localhost:80", "name": "Caddy" },
+    { "type": "tcp",  "url": "tcp://localhost:22", "name": "SSH" }
+  ]
+}
